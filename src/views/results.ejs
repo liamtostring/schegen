@@ -1,0 +1,51 @@
+<%- include('partials/header') %>
+
+<h2>Schema Results</h2>
+
+<div class="card">
+  <p>View and manage your generated schemas here. Start by generating schemas from the <a href="/">Dashboard</a>.</p>
+</div>
+
+<div id="saved-results" class="card">
+  <h3>Recent Results</h3>
+  <div id="results-list">
+    <p class="empty-state">No schemas generated yet. Go to the Dashboard to get started.</p>
+  </div>
+</div>
+
+<div id="stats" class="card">
+  <h3>Statistics</h3>
+  <div class="stats-grid">
+    <div class="stat">
+      <span class="stat-value" id="total-generated">0</span>
+      <span class="stat-label">Generated</span>
+    </div>
+    <div class="stat">
+      <span class="stat-value" id="total-inserted">0</span>
+      <span class="stat-label">Inserted</span>
+    </div>
+    <div class="stat">
+      <span class="stat-value" id="article-count">0</span>
+      <span class="stat-label">Articles</span>
+    </div>
+    <div class="stat">
+      <span class="stat-value" id="service-count">0</span>
+      <span class="stat-label">Services</span>
+    </div>
+  </div>
+</div>
+
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <p>WordPress Schema Generator - Generate JSON-LD for RankMath</p>
+    </div>
+  </footer>
+
+  <!-- Back to Top Button -->
+  <button class="back-to-top" id="back-to-top" title="Back to top">↑</button>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>

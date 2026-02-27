@@ -1,0 +1,49 @@
+{
+  "name": "schema-generator",
+  "version": "2.9.1",
+  "description": "Generate comprehensive JSON-LD schemas for HVAC & Home Services websites. Supports WordPress/RankMath integration, multi-schema @graph structure, AI verification with OpenAI/Gemini, Google Rich Results compliance checking.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "node --test tests/schemaGenerator.test.js",
+    "test:db": "node scripts/test-db-connection.js",
+    "test:db:help": "node scripts/test-db-connection.js --help"
+  },
+  "keywords": [
+    "wordpress",
+    "schema",
+    "json-ld",
+    "seo",
+    "rankmath",
+    "hvac",
+    "structured-data",
+    "local-business",
+    "faq-schema",
+    "service-schema",
+    "openai",
+    "gemini",
+    "google-rich-results"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "fast-xml-parser": "^4.3.0",
+    "mysql2": "^3.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

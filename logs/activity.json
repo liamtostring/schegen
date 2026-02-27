@@ -1,0 +1,1437 @@
+{
+  "logs": [
+    {
+      "id": 1772121964652,
+      "timestamp": "2026-02-26T16:06:04.652Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/portfolio/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121961399,
+      "timestamp": "2026-02-26T16:06:01.399Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/fireplace-store-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121961337,
+      "timestamp": "2026-02-26T16:06:01.337Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/portfolio/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121958205,
+      "timestamp": "2026-02-26T16:05:58.205Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/savannah-fireplaces-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121958171,
+      "timestamp": "2026-02-26T16:05:58.171Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/fireplace-store-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121955108,
+      "timestamp": "2026-02-26T16:05:55.108Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/regency-fireplaces-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121954975,
+      "timestamp": "2026-02-26T16:05:54.975Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/savannah-fireplaces-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121952211,
+      "timestamp": "2026-02-26T16:05:52.211Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/napoleon-gas-fireplaces-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121951974,
+      "timestamp": "2026-02-26T16:05:51.974Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/regency-fireplaces-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121949085,
+      "timestamp": "2026-02-26T16:05:49.085Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/napoleon-gas-fireplaces-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121949036,
+      "timestamp": "2026-02-26T16:05:49.036Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/majestic-fireplaces-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121946273,
+      "timestamp": "2026-02-26T16:05:46.273Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/trane-air-conditioners-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121946258,
+      "timestamp": "2026-02-26T16:05:46.258Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/majestic-fireplaces-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121943284,
+      "timestamp": "2026-02-26T16:05:43.284Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/trane-air-conditioners-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121943248,
+      "timestamp": "2026-02-26T16:05:43.248Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/trane-furnaces-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121940325,
+      "timestamp": "2026-02-26T16:05:40.325Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/trane-furnaces-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121940285,
+      "timestamp": "2026-02-26T16:05:40.285Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/lennox-furnaces-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121937418,
+      "timestamp": "2026-02-26T16:05:37.418Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/lennox-furnaces-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121933029,
+      "timestamp": "2026-02-26T16:05:33.029Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/lennox-air-conditioners-hamilton-on/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121930017,
+      "timestamp": "2026-02-26T16:05:30.017Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/mini-split/maintenance-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121923204,
+      "timestamp": "2026-02-26T16:05:23.204Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/mini-split/installation-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121919972,
+      "timestamp": "2026-02-26T16:05:19.972Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/blog/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121916812,
+      "timestamp": "2026-02-26T16:05:16.812Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heat-pumps/electric-heat-pumps-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121913778,
+      "timestamp": "2026-02-26T16:05:13.778Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heat-pumps/heat-pump-maintenance-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121910448,
+      "timestamp": "2026-02-26T16:05:10.448Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heat-pumps/heat-pump-repair-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121907250,
+      "timestamp": "2026-02-26T16:05:07.250Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heat-pumps/heat-pump-installation-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121904098,
+      "timestamp": "2026-02-26T16:05:04.098Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/fireplaces/fireplace-sales-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121900780,
+      "timestamp": "2026-02-26T16:05:00.780Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/fireplaces/fireplace-cleaning-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121897695,
+      "timestamp": "2026-02-26T16:04:57.695Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/fireplaces/gas-inserts-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121894569,
+      "timestamp": "2026-02-26T16:04:54.569Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/fireplaces/wood-fireplaces-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121891375,
+      "timestamp": "2026-02-26T16:04:51.375Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/fireplaces/electric-fireplaces-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121888272,
+      "timestamp": "2026-02-26T16:04:48.272Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/fireplaces/gas-fireplaces-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121884630,
+      "timestamp": "2026-02-26T16:04:44.630Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heating/furnace-maintenance-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121880948,
+      "timestamp": "2026-02-26T16:04:40.948Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heating/furnace-tune-up-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121877561,
+      "timestamp": "2026-02-26T16:04:37.561Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heating/furnace-service-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121874313,
+      "timestamp": "2026-02-26T16:04:34.313Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heating/furnace-repair-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121870752,
+      "timestamp": "2026-02-26T16:04:30.752Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heating/furnace-installation-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121867240,
+      "timestamp": "2026-02-26T16:04:27.240Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/cooling/ac-service-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121863543,
+      "timestamp": "2026-02-26T16:04:23.543Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/cooling/ac-maintenance-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121859771,
+      "timestamp": "2026-02-26T16:04:19.771Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/cooling/ac-tune-up-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121856146,
+      "timestamp": "2026-02-26T16:04:16.146Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/cooling/ac-repair-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121852266,
+      "timestamp": "2026-02-26T16:04:12.266Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/cooling/ac-installation-hamilton/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121848778,
+      "timestamp": "2026-02-26T16:04:08.778Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/about-us/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121845411,
+      "timestamp": "2026-02-26T16:04:05.411Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/financing/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121842066,
+      "timestamp": "2026-02-26T16:04:02.066Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/maintenance-plans/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121838374,
+      "timestamp": "2026-02-26T16:03:58.374Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/promotions/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121835073,
+      "timestamp": "2026-02-26T16:03:55.073Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heat-pumps/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121831468,
+      "timestamp": "2026-02-26T16:03:51.468Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/fireplaces/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121828318,
+      "timestamp": "2026-02-26T16:03:48.318Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heating/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121825077,
+      "timestamp": "2026-02-26T16:03:45.077Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/cooling/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772121745190,
+      "timestamp": "2026-02-26T16:02:25.190Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/portfolio/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121731384,
+      "timestamp": "2026-02-26T16:02:11.384Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/portfolio/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772121704398,
+      "timestamp": "2026-02-26T16:01:44.398Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/fireplace-store-hamilton-on/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121691440,
+      "timestamp": "2026-02-26T16:01:31.440Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/fireplace-store-hamilton-on/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121667570,
+      "timestamp": "2026-02-26T16:01:07.570Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/savannah-fireplaces-hamilton-on/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121654096,
+      "timestamp": "2026-02-26T16:00:54.096Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/savannah-fireplaces-hamilton-on/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121634708,
+      "timestamp": "2026-02-26T16:00:34.708Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/regency-fireplaces-hamilton-on/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121620859,
+      "timestamp": "2026-02-26T16:00:20.859Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/regency-fireplaces-hamilton-on/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121599914,
+      "timestamp": "2026-02-26T15:59:59.914Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/napoleon-gas-fireplaces-hamilton-on/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121587218,
+      "timestamp": "2026-02-26T15:59:47.218Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/napoleon-gas-fireplaces-hamilton-on/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121567995,
+      "timestamp": "2026-02-26T15:59:27.995Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/majestic-fireplaces-hamilton-on/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121555125,
+      "timestamp": "2026-02-26T15:59:15.125Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/majestic-fireplaces-hamilton-on/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121537635,
+      "timestamp": "2026-02-26T15:58:57.635Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/trane-air-conditioners-hamilton-on/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121522867,
+      "timestamp": "2026-02-26T15:58:42.867Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/trane-air-conditioners-hamilton-on/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121502197,
+      "timestamp": "2026-02-26T15:58:22.197Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/trane-furnaces-hamilton-on/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121488986,
+      "timestamp": "2026-02-26T15:58:08.986Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/trane-furnaces-hamilton-on/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121463274,
+      "timestamp": "2026-02-26T15:57:43.274Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/lennox-furnaces-hamilton-on/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121450868,
+      "timestamp": "2026-02-26T15:57:30.868Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/lennox-furnaces-hamilton-on/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121431126,
+      "timestamp": "2026-02-26T15:57:11.126Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/lennox-air-conditioners-hamilton-on/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121418950,
+      "timestamp": "2026-02-26T15:56:58.950Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/lennox-air-conditioners-hamilton-on/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121400740,
+      "timestamp": "2026-02-26T15:56:40.740Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/mini-split/maintenance-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121386862,
+      "timestamp": "2026-02-26T15:56:26.862Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/mini-split/maintenance-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121369327,
+      "timestamp": "2026-02-26T15:56:09.327Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/mini-split/installation-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121356834,
+      "timestamp": "2026-02-26T15:55:56.834Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/mini-split/installation-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121336545,
+      "timestamp": "2026-02-26T15:55:36.545Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/blog/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121323363,
+      "timestamp": "2026-02-26T15:55:23.363Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/blog/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772121293802,
+      "timestamp": "2026-02-26T15:54:53.802Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heat-pumps/electric-heat-pumps-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121280166,
+      "timestamp": "2026-02-26T15:54:40.166Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heat-pumps/electric-heat-pumps-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121261264,
+      "timestamp": "2026-02-26T15:54:21.264Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heat-pumps/heat-pump-maintenance-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121249161,
+      "timestamp": "2026-02-26T15:54:09.161Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heat-pumps/heat-pump-maintenance-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121230009,
+      "timestamp": "2026-02-26T15:53:50.009Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heat-pumps/heat-pump-repair-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121217020,
+      "timestamp": "2026-02-26T15:53:37.020Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heat-pumps/heat-pump-repair-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121196717,
+      "timestamp": "2026-02-26T15:53:16.717Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heat-pumps/heat-pump-installation-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121183930,
+      "timestamp": "2026-02-26T15:53:03.930Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heat-pumps/heat-pump-installation-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121166664,
+      "timestamp": "2026-02-26T15:52:46.664Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/fireplace-sales-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121153635,
+      "timestamp": "2026-02-26T15:52:33.635Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/fireplace-sales-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121128156,
+      "timestamp": "2026-02-26T15:52:08.156Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/fireplace-cleaning-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121115823,
+      "timestamp": "2026-02-26T15:51:55.823Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/fireplace-cleaning-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121093372,
+      "timestamp": "2026-02-26T15:51:33.372Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/gas-inserts-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121080568,
+      "timestamp": "2026-02-26T15:51:20.568Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/gas-inserts-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121051568,
+      "timestamp": "2026-02-26T15:50:51.568Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/wood-fireplaces-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121036778,
+      "timestamp": "2026-02-26T15:50:36.778Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/wood-fireplaces-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772121017416,
+      "timestamp": "2026-02-26T15:50:17.416Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/electric-fireplaces-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772121003125,
+      "timestamp": "2026-02-26T15:50:03.125Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/electric-fireplaces-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120975864,
+      "timestamp": "2026-02-26T15:49:35.864Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/gas-fireplaces-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120962233,
+      "timestamp": "2026-02-26T15:49:22.233Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/gas-fireplaces-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120944062,
+      "timestamp": "2026-02-26T15:49:04.062Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heating/furnace-maintenance-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120931447,
+      "timestamp": "2026-02-26T15:48:51.447Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/furnace-maintenance-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120909081,
+      "timestamp": "2026-02-26T15:48:29.081Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heating/furnace-tune-up-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120897275,
+      "timestamp": "2026-02-26T15:48:17.275Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/furnace-tune-up-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120877850,
+      "timestamp": "2026-02-26T15:47:57.850Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heating/furnace-service-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120865549,
+      "timestamp": "2026-02-26T15:47:45.549Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/furnace-service-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120848613,
+      "timestamp": "2026-02-26T15:47:28.613Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heating/furnace-repair-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120835217,
+      "timestamp": "2026-02-26T15:47:15.217Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/furnace-repair-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120816891,
+      "timestamp": "2026-02-26T15:46:56.891Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heating/furnace-installation-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120804316,
+      "timestamp": "2026-02-26T15:46:44.316Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/furnace-installation-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120781352,
+      "timestamp": "2026-02-26T15:46:21.352Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/cooling/ac-service-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120768358,
+      "timestamp": "2026-02-26T15:46:08.358Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/cooling/ac-service-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120747973,
+      "timestamp": "2026-02-26T15:45:47.973Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/cooling/ac-maintenance-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120735684,
+      "timestamp": "2026-02-26T15:45:35.684Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/cooling/ac-maintenance-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120711147,
+      "timestamp": "2026-02-26T15:45:11.147Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/cooling/ac-tune-up-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120699417,
+      "timestamp": "2026-02-26T15:44:59.417Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/cooling/ac-tune-up-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120677985,
+      "timestamp": "2026-02-26T15:44:37.985Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/cooling/ac-repair-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120665642,
+      "timestamp": "2026-02-26T15:44:25.642Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/cooling/ac-repair-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120649489,
+      "timestamp": "2026-02-26T15:44:09.489Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/cooling/ac-installation-hamilton/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120637829,
+      "timestamp": "2026-02-26T15:43:57.829Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/cooling/ac-installation-hamilton/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120617700,
+      "timestamp": "2026-02-26T15:43:37.700Z",
+      "action": "ai_schema_verified",
+      "url": "https://hamiltonhomecomfort.com/about-us/",
+      "googleCompliant": false,
+      "hasIssues": true
+    },
+    {
+      "id": 1772120607417,
+      "timestamp": "2026-02-26T15:43:27.417Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/about-us/",
+      "provider": "gemini",
+      "schemaCount": 4,
+      "tokens": 0
+    },
+    {
+      "id": 1772120593273,
+      "timestamp": "2026-02-26T15:43:13.273Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/financing/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120580973,
+      "timestamp": "2026-02-26T15:43:00.973Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/financing/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772120562854,
+      "timestamp": "2026-02-26T15:42:42.854Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/maintenance-plans/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120549731,
+      "timestamp": "2026-02-26T15:42:29.731Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/maintenance-plans/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772120530923,
+      "timestamp": "2026-02-26T15:42:10.923Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/promotions/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120518012,
+      "timestamp": "2026-02-26T15:41:58.012Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/promotions/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772120498402,
+      "timestamp": "2026-02-26T15:41:38.402Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heat-pumps/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120485229,
+      "timestamp": "2026-02-26T15:41:25.229Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heat-pumps/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120467856,
+      "timestamp": "2026-02-26T15:41:07.856Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120453589,
+      "timestamp": "2026-02-26T15:40:53.589Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/fireplaces/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120433333,
+      "timestamp": "2026-02-26T15:40:33.333Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120420670,
+      "timestamp": "2026-02-26T15:40:20.670Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772120400957,
+      "timestamp": "2026-02-26T15:40:00.957Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/cooling/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772120387767,
+      "timestamp": "2026-02-26T15:39:47.767Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/cooling/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772119905739,
+      "timestamp": "2026-02-26T15:31:45.739Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772119892560,
+      "timestamp": "2026-02-26T15:31:32.560Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772119717184,
+      "timestamp": "2026-02-26T15:28:37.184Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 0,
+      "tokens": 0
+    },
+    {
+      "id": 1772119601474,
+      "timestamp": "2026-02-26T15:26:41.474Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 0,
+      "tokens": 0
+    },
+    {
+      "id": 1772119326498,
+      "timestamp": "2026-02-26T15:22:06.498Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772119313616,
+      "timestamp": "2026-02-26T15:21:53.616Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772118704862,
+      "timestamp": "2026-02-26T15:11:44.862Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772118692386,
+      "timestamp": "2026-02-26T15:11:32.386Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 6,
+      "tokens": 0
+    },
+    {
+      "id": 1772117467706,
+      "timestamp": "2026-02-26T14:51:07.706Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heating/",
+      "schemaType": "auto",
+      "success": true
+    },
+    {
+      "id": 1772117403808,
+      "timestamp": "2026-02-26T14:50:03.808Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772117391643,
+      "timestamp": "2026-02-26T14:49:51.643Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772079653540,
+      "timestamp": "2026-02-26T04:20:53.540Z",
+      "action": "ai_verification_error",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "error": "Failed to parse AI response as JSON: Unexpected token '`', \"```json\n{\n\"... is not valid JSON"
+    },
+    {
+      "id": 1772079642178,
+      "timestamp": "2026-02-26T04:20:42.178Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772077623720,
+      "timestamp": "2026-02-26T03:47:03.720Z",
+      "action": "schema_insert_error",
+      "pageUrl": "https://hamiltonhomecomfort.com/heating/",
+      "error": "Insert schema failed: schema is required"
+    },
+    {
+      "id": 1772077609628,
+      "timestamp": "2026-02-26T03:46:49.628Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 0,
+      "tokens": 0
+    },
+    {
+      "id": 1772077480403,
+      "timestamp": "2026-02-26T03:44:40.403Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772077466584,
+      "timestamp": "2026-02-26T03:44:26.584Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772077420595,
+      "timestamp": "2026-02-26T03:43:40.595Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772077405534,
+      "timestamp": "2026-02-26T03:43:25.534Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772063823167,
+      "timestamp": "2026-02-25T23:57:03.167Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 0,
+      "tokens": 0
+    },
+    {
+      "id": 1772063758813,
+      "timestamp": "2026-02-25T23:55:58.813Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 0,
+      "tokens": 0
+    },
+    {
+      "id": 1772062065223,
+      "timestamp": "2026-02-25T23:27:45.223Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 0,
+      "tokens": 0
+    },
+    {
+      "id": 1772060908153,
+      "timestamp": "2026-02-25T23:08:28.153Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772060891791,
+      "timestamp": "2026-02-25T23:08:11.791Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772058069024,
+      "timestamp": "2026-02-25T22:21:09.024Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772058015761,
+      "timestamp": "2026-02-25T22:20:15.761Z",
+      "action": "ai_schema_generate_error",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "error": "Failed to fetch https://hamiltonhomecomfort.com/heating/ - HTTP 403: Forbidden"
+    },
+    {
+      "id": 1772058014806,
+      "timestamp": "2026-02-25T22:20:14.806Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772057870613,
+      "timestamp": "2026-02-25T22:17:50.613Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772057754493,
+      "timestamp": "2026-02-25T22:15:54.493Z",
+      "action": "ai_schema_generate_error",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "error": "Failed to scrape page: socket hang up"
+    },
+    {
+      "id": 1772056759883,
+      "timestamp": "2026-02-25T21:59:19.883Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772056741691,
+      "timestamp": "2026-02-25T21:59:01.691Z",
+      "action": "ai_schema_generate_error",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "error": "Failed to scrape page: socket hang up"
+    },
+    {
+      "id": 1772056709730,
+      "timestamp": "2026-02-25T21:58:29.730Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 5,
+      "tokens": 0
+    },
+    {
+      "id": 1772056691933,
+      "timestamp": "2026-02-25T21:58:11.933Z",
+      "action": "ai_schema_generate_error",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "error": "Failed to scrape page: socket hang up"
+    },
+    {
+      "id": 1772056571031,
+      "timestamp": "2026-02-25T21:56:11.031Z",
+      "action": "ai_schema_generate_error",
+      "url": "https://hamiltonhomecomfort.com/",
+      "error": "Failed to scrape page: socket hang up"
+    },
+    {
+      "id": 1772054805860,
+      "timestamp": "2026-02-25T21:26:45.860Z",
+      "action": "schema_inserted",
+      "siteUrl": "https://hamiltonhomecomfort.com/",
+      "pageUrl": "https://hamiltonhomecomfort.com/heating/",
+      "schemaType": "auto",
+      "success": true,
+      "results": [
+        {
+          "meta_key": "rank_math_schema_Thing",
+          "type": "Thing",
+          "success": true
+        }
+      ]
+    },
+    {
+      "id": 1772054796321,
+      "timestamp": "2026-02-25T21:26:36.321Z",
+      "action": "ai_schema_generated",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "provider": "gemini",
+      "schemaCount": 0,
+      "tokens": 0
+    },
+    {
+      "id": 1772054776590,
+      "timestamp": "2026-02-25T21:26:16.590Z",
+      "action": "ai_schema_generate_error",
+      "url": "https://hamiltonhomecomfort.com/heating/",
+      "error": "Failed to scrape page: socket hang up"
+    }
+  ],
+  "tokenUsage": {
+    "openai": {
+      "total": 0,
+      "sessions": []
+    },
+    "gemini": {
+      "total": 0,
+      "sessions": []
+    }
+  }
+}

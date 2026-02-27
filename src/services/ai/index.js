@@ -1,0 +1,115 @@
+/**
+ * AI Service - Modular AI provider abstraction
+ * Easy to add new providers/models as they're released
+ */
+
+const openaiProvider = require('./providers/openai');
+const geminiProvider = require('./providers/gemini');
+
+// Available providers - add new ones here
+const providers = {
+  openai: openaiProvider,
+  gemini: geminiProvider
+};
+
+// Available models - update this as new models are released
+const availableModels = {
+  openai: [
+    { id: 'gpt-4o', name: 'GPT-4o (Recommended)', default: true },
+    { id: 'gpt-4-turbo', name: 'GPT-4 Turbo' },
+    { id: 'gpt-4', name: 'GPT-4' },
+    { id: 'gpt-3.5-turbo', name: 'GPT-3.5 Turbo (Faster/Cheaper)' }
+  ],
+  gemini: [
+    { id: 'gemini-2.0-flash', name: 'Gemini 2.0 Flash (Recommended)', default: true },
+    { id: 'gemini-2.5-flash', name: 'Gemini 2.5 Flash (Latest)' },
+    { id: 'gemini-2.5-pro', name: 'Gemini 2.5 Pro' }
+  ]
+};
+
+/**
+ * Get available providers and their models
+ */
+function getAvailableProviders() {
+  const result = {};
+
+  for (const [providerName, models] of Object.entries(availableModels)) {
+    const provider = providers[providerName];
+    result[providerName] = {
+      name: provider.name,
+      configured: provider.isConfigured(),
+      models: models
+    };
+  }
+
+  return result;
+}
+
+/**
+ * Get the default model for a provider
+ */
+function getDefaultModel(providerName) {
+  const models = availableModels[providerName];
+  if (!models) return null;
+  const defaultModel = models.find(m => m.default);
+  return defaultModel ? defaultModel.id : models[0].id;
+}
+
+/**
+ * Call AI with a prompt
+ * @param {string} providerName - 'openai' or 'gemini'
+ * @param {string} prompt - The prompt to send
+ * @param {object} options - { model, temperature, maxTokens, apiKey }
+ */
+async function call(providerName, prompt, options = {}) {
+  const provider = providers[providerName];
+
+  if (!provider) {
+    throw new Error(`Unknown AI provider: ${providerName}`);
+  }
+
+  // Allow API key from options (UI) or fall back to checking .env
+  const hasApiKey = options.apiKey || provider.isConfigured();
+  if (!hasApiKey) {
+    throw new Error(`${provider.name} API key not provided. Enter your API key in the UI or add it to the .env file.`);
+  }
+
+  const model = options.model || getDefaultModel(providerName);
+
+  return provider.call(prompt, {
+    model,
+    temperature: options.temperature || 0.3,
+    maxTokens: options.maxTokens || 2000,
+    apiKey: options.apiKey  // Pass API key to provider
+  });
+}
+
+/**
+ * Call AI and parse JSON response
+ */
+async function callJSON(providerName, prompt, options = {}) {
+  const response = await call(providerName, prompt, options);
+
+  // Try to extract JSON from response
+  try {
+    // Handle markdown code blocks
+    let jsonStr = response;
+    const jsonMatch = response.match(/```(?:json)?\s*([\s\S]*?)```/);
+    if (jsonMatch) {
+      jsonStr = jsonMatch[1];
+    }
+
+    return JSON.parse(jsonStr.trim());
+  } catch (e) {
+    throw new Error(`Failed to parse AI response as JSON: ${e.message}`);
+  }
+}
+
+module.exports = {
+  getAvailableProviders,
+  getDefaultModel,
+  call,
+  callJSON,
+  providers,
+  availableModels
+};
